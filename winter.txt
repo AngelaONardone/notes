@@ -1,1 +1,2 @@
 make new app idea
+1. video streaming app for teens
