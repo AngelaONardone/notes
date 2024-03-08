@@ -2,3 +2,4 @@ make new app idea
 1. video streaming app for teens
 2. add adapive streaming
 3. move data to new database (sqlite)
+4. migrate the database
